@@ -1,2 +1,5 @@
 # random-quote-Generator
-# random-quote-Generator
+##### A Random Quote Generator Using 'type.fit' API
+
+# Technologies Used
+##### HTML5, CSS3, JavaScript (Vanilla)
