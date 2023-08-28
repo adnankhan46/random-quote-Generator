@@ -6,5 +6,5 @@ Direct TWEET Feature Using TWITTER API
 ##### HTML5, CSS3, JavaScript (Vanilla)
 
 # APIs Used
-Twitter
+Twitter,
 type.fit
